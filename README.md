@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🌐 **Text · Image · PDF · Audio · YouTube → Intelligent Task Execution**
+### 🌐 **Text · Image · PDF · Audio · YouTube · Code → Intelligent Task Execution**
 
 ### ⚡ Powered by **Groq LLaMA Models**, Whisper, Tesseract OCR, FastAPI
 
