@@ -1,0 +1,23 @@
+# Ignore virtual environments
+myenv/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore large binaries
+*.dll
+*.lib
+*.so
+*.bin
+*.ckpt
+*.pt
+*.onnx
+
+# Ignore environment variables
+.env
