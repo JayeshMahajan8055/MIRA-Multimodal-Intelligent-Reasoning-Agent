@@ -288,7 +288,7 @@ Based on assignment grading —
 
 # 📹 **9. Demo Video**
 
-(Add your implementation video link here)
+[(Add your implementation video link here)](https://youtu.be/JOqEN1P0jQc)
 
 ```
 https://your-demo-link-here
